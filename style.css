@@ -227,8 +227,8 @@ nav img {
   height: 600px;
   text-align: left;
 }
-.transform-col-left h3,
-.audience-col-right h3 {
+.transform-col-left h2,
+.audience-col-right h2 {
   font-family: 'Fraunces', serif;
   color: hsl(212, 27%, 19%);
   font-size: 46px;
@@ -435,8 +435,8 @@ svg:hover path{
   width: 20px;
 }
 @media screen and (max-width: 1200px) {
-  .transform-col-left h3,
-  .audience-col-right h3 {
+  .transform-col-left h2,
+  .audience-col-right h2 {
     font-size: 38px;
     padding: 120px;
     padding-bottom: 0;
@@ -473,8 +473,8 @@ svg:hover path{
   .audience-col-left {
     background-image: url(./images/mobile/image-stand-out.jpg);
   }
-  .transform-col-left h3,
-  .audience-col-right h3 {
+  .transform-col-left h2,
+  .audience-col-right h2 {
     font-size: 46px;
     padding: 120px;
     padding-bottom: 10px;
@@ -517,8 +517,8 @@ svg:hover path{
   }
 }
 @media screen and (max-width: 768px) {
-  .transform-col-left h3,
-  .audience-col-right h3 {
+  .transform-col-left h2,
+  .audience-col-right h2 {
     font-size: 38px;
     padding: 120px;
     padding-bottom: 0;
@@ -551,8 +551,8 @@ svg:hover path{
     height: 440px;
     text-align: center;
   }
-  .transform-col-left h3,
-  .audience-col-right h3 {
+  .transform-col-left h2,
+  .audience-col-right h2 {
     font-size: 28px;
     padding: 60px;
     padding-bottom: 0;
