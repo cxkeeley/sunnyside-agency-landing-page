@@ -353,12 +353,12 @@ nav img {
   font-size: 18px;
   color: hsl(232, 10%, 55%);
 }
-.testimonial h3 {
+.testimonial h2 {
   font-family: 'Fraunces', serif;
   color: hsl(212, 27%, 19%);
   font-weight: 900;
 }
-.testimonial h4 {
+.testimonial h3 {
   font-size: 14px;
   color: hsl(210, 4%, 67%);
   padding: 1rem;
