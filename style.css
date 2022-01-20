@@ -419,21 +419,15 @@ nav img {
 .footer ul li a:hover {
   color: var(--white);
 }
-.icons {
-  padding-top: 2rem;
-}
-.icons a {
-  padding: 1rem;
+.footer .social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 1.3rem;
 }
 svg:hover path{
   fill: #fff;
 }
-.footer img {
-  width: 200px;
-}
-.icons img {
-  width: 20px;
-}
+
 @media screen and (max-width: 1200px) {
   .transform-col-left h2,
   .audience-col-right h2 {
