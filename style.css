@@ -340,7 +340,7 @@ nav img {
   width: 70px;
   border-radius: 50%;
 }
-.testimonial h1 {
+.testimonial h2 {
   font-family: 'Fraunces', serif;
   color: hsl(210, 4%, 67%);
   letter-spacing: 3px;
@@ -575,7 +575,7 @@ svg:hover path{
     padding-top: 100px;
     padding-bottom: 50px;
   }
-  .testimonial h1 {
+  .testimonial h2 {
     font-size: 18px;
   }
   .testimonial p {
